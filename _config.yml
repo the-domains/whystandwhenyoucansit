@@ -1,32 +1,18 @@
-name: WhyStandWhenYouCanSit
-favicon: null
-layout_spectrum: 0.026315
-typography_spectrum: 0.38898
-title: HOME
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
+    - '#B8B8B8'
     - '#000000'
-    - '#000000'
-    - '#000000'
+    - '#888888'
     - '#000000'
     - '#000000'
   brandStrength: 0.920373
-  lightness: 0.4375
-  saturation: 0.25
-  rhythmicContrast: 0.75
-purpose:
-  - name: null
-    item: null
-    url: null
+  lightness: 0.418072
+  rhythmicContrast: 0.632303
+  saturation: 0.318457
+cta: {}
+layout_spectrum: 0.026315
+name: WhyStandWhenYouCanSit
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.38898
