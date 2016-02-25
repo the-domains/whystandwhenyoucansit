@@ -1,6 +1,6 @@
 name: WhyStandWhenYouCanSit
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 typography_spectrum: 0.33424
 cta:
   domain: null
@@ -24,7 +24,7 @@ color:
   brandStrength: 0.920373
   lightness: 0.418072
   saturation: 0.318457
-  rhythmicContrast: 0.632303
+  rhythmicContrast: 0.75
 purpose:
   - name: null
     item: null
